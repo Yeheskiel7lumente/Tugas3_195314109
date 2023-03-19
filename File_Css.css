@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(25, 188, 209);
+    color: rgb(12, 6, 6);
+    padding: 20px;
+    font-family: Arial, Verdana, sans-serif;}
+h1{
+    background-color: hsl(210, 6%, 88%);
+    font-family: arial Black;
+    text-align: center ;}
+h2{
+    font-family: arial Black;
+    text-align: left ;} 
+p,li{
+   font-family: arial black; 
+   text-align: left; }
